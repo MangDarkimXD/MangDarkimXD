@@ -5,7 +5,7 @@
 </p>
 <p align="center"><b>Contact me</b></p>
 <p align="center">
-&nbsp; <a href="https://api.whatsapp.com/send/?phone=233506380966&text=Hallo+Bang!"><img src="https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white" /></a></p>
+&nbsp; <a href="https://api.whatsapp.com/send/?phone=6283861385057&text=Hallo+Bang!"><img src="https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white" /></a></p>
 
 - 👋 Hi, I’m @MangDarkimXD
 - 👀 I’m interested in ...
